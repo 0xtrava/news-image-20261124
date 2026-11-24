@@ -14,4 +14,4 @@ The day's top stories: the ICJ finds Myanmar guilty of the Rohingya genocide; Uk
 
 ## The image
 
-`entry.png` — 1024×1024 pixels, JPEG, 274,344 bytes. A newspaper front page: masthead "THE WORLD TODAY" with the date "TUESDAY 24 NOVEMBER 2026", four story panels with a distinct visual and a legible headline each, and a bottom ticker for the secondary stories.
+`entry.png` — 1024×1024 pixels, JPEG, 348,386 bytes. A newspaper front page: masthead "THE WORLD TODAY" with the date "TUESDAY 24 NOVEMBER 2026", a hero-led layout with the ICJ genocide verdict dominating the top half, Ukraine and COP31 side by side below it, a NATO space-defence strip, and a bottom ticker for the secondary stories.
