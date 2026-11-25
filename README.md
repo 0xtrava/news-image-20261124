@@ -14,4 +14,4 @@ The day's top stories: the ICJ finds Myanmar guilty of the Rohingya genocide; Uk
 
 ## The image
 
-`entry.png` — 1024×1024 pixels, JPEG, 395,990 bytes. A dense newspaper broadsheet: masthead "THE WORLD TODAY" with the date "TUESDAY 24 NOVEMBER 2026", the ICJ genocide verdict as the hero lead, then 24 more verified stories in a three-column grid across seven regions — Ukraine, COP31, NATO, Gaza, Iran, Congo, Nvidia, markets, Mexico, Nepal, China, Korea, measles, Sanofi, Grok, quasar, Indonesia, Colombia, Yemen, Germany, Britain — and a bottom markets ticker.
+`entry.png` — 1024×1024 pixels, JPEG, 416,274 bytes. A dense newspaper broadsheet: masthead "THE WORLD TODAY" with the date "TUESDAY 24 NOVEMBER 2026", the ICJ genocide verdict as the hero lead, then 35 more verified stories in a four-column grid across seven regions — Ukraine, COP31, NATO, Gaza, Iran, Congo, Estonia, Nvidia, markets, Mexico, Nepal, China, Korea, measles, Sanofi, Grok, quasar, Indonesia, Colombia, Yemen, Germany, Britain, Iraq, Solomons, Netanyahu, UN, FDA, Trump, Russian jets, EU visas, UK sanctions — and a bottom markets ticker.
